@@ -4,7 +4,7 @@ Check out the component [here](https://ioannis-sporidis.github.io/rc-restaurant-
 
 ## Dependencies:
 - [React](https://reactjs.org/)
-- [NPM gh-oages](https://www.npmjs.com/package/gh-pages)
+- [NPM Github Pages](https://www.npmjs.com/package/gh-pages)
 
 ## Next Steps:
 
