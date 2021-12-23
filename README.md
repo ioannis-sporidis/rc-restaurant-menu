@@ -1,10 +1,10 @@
 # Restaurant Menu App
 
-Check out the component [here]()
+Check out the component [here](https://ioannis-sporidis.github.io/rc-restaurant-menu/)
 
 ## Dependencies:
-- [React]
-- [NPM Github Pages]
+- [React](https://reactjs.org/)
+- [NPM gh-oages](https://www.npmjs.com/package/gh-pages)
 
 ## Next Steps:
 
