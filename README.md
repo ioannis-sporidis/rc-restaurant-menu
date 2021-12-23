@@ -1,6 +1,10 @@
 # Restaurant Menu App
 
-https://ioannis-sporidis.github.io/restaurant_menu/
+Check out the component [here]()
+
+## Dependencies:
+- [React]
+- [NPM Github Pages]
 
 ## Next Steps:
 
