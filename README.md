@@ -1,6 +1,6 @@
 # Restaurant Menu App
 
-Check out the component [here](https://ioannis-sporidis.github.io/rc-restaurant-menu/)
+Check out the component [here](https://the-fetaverse.github.io/rc-restaurant-menu/)
 
 ## Dependencies:
 - [React](https://reactjs.org/)
